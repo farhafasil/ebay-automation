@@ -1,0 +1,23 @@
+{
+	"sequence_top_5_brands_in_any_category":{
+		"navigation":["Sports", "Cycling", "Bicycles"],
+		"brands":[
+			{
+				"name":"Giant",
+				"product": "Giant - Elwood Ladies Bike"
+			},
+			{
+				"name":"Specialized",
+				"product": "Specialized Centrum Sport Single Speed"
+			},
+			{
+				"name":"Trek",
+				"product": "trek mountain bike"
+			},
+			{
+				"name":"Colnago",
+				"product": "Colnago Road Bike"
+			}
+		]
+	}
+}

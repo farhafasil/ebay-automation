@@ -1,0 +1,12 @@
+[
+	{
+		"email":"fasilak@gmail.com",
+		"password":"test123",
+		"valid":false
+	},
+	{
+		"email":"faratest123@gmail.com",
+		"password":"plspassit123",
+		"valid":true
+	}   
+]
